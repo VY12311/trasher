@@ -1,0 +1,40 @@
+.login_div1 , .login_div2
+{
+    background: white;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    text-align: center;
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+.profile {
+    border-radius: 50%;
+
+}
+#welcome {
+
+    background: linear-gradient(#690500 0%, #FA7921 100%);
+}
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+#sub {
+    font-size: 15px;
+    line-height: 1;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+#head {
+    font-size: 25px;
+    line-height: 1;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
